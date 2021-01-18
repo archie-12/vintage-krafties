@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Vintage Krafties
 
 You can use the [editor on GitHub](https://github.com/archie-12/vintage-krafties/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
